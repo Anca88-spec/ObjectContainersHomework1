@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+
         Country romania = new Country("Romania");
         Country spain = new Country("Spain");
 
